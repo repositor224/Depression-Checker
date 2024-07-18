@@ -21,4 +21,9 @@ An image of the physical structure and the circuitry diagram is listed in this g
 
 Please implement the following configuration on breadboard:
 
+- GPIO_PIN_8 =>
+
+- GPIO_PIN_6 =>
+
+- GPIO_PIN_9 =>
 
