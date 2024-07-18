@@ -1,7 +1,7 @@
 # Depression-Checker
 
 A hardware product made through STM32 and Circuitry components checking user's depression by monitoring user's sleep and movement behavior. The project is made by STM21F401RE. Once the user is inactive for an extensive period of time calculated based on statistical 
-analysis of their past sleeping movement, the system will buzz
+analysis of their past sleeping movement, the system will buzz. This is also used for my ECE 198 project, where I would need to develop a product addressing health concerns using STM32 Board.
 
 ## Materials:
 
