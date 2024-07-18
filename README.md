@@ -15,6 +15,6 @@ analysis of their past sleeping movement, the system will buzz
 
 - A big box
 
-Installation Guide:
+## Installation Guide:
 
 An image of the physical structure and the circuitry diagram is listed in this github. Please reference the two documents to install the product.
